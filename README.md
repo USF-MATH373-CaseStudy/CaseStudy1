@@ -1,4 +1,4 @@
-# MATH 373: Intro to Machine Learning
+# USF MATH 373: Intro to Machine Learning
 Case Study 1: Spam Detection with Naive Bayes
 
 ###### Team Members:
